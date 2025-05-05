@@ -53,5 +53,7 @@ joblib
 
 ## 👨‍💻 Author
 Mostafa Arafa
+
 Machine Learning & Data Analysis Projects
+
 Feel free to connect via GitHub!
