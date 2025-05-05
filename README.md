@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Made with ❤️ by Mostafa Arafa](https://img.shields.io/badge/Made%20with%20❤️%20by-Mostafa%20Arafa-blue)
+![Made with ❤️ by Mostafa Arafa](https://img.shields.io/badge/Made%20by-Mostafa%20Arafa-blue)
 
 Predict monthly product sales using regression models with professional analysis, visualizations, and performance metrics.
 
