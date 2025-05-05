@@ -15,11 +15,41 @@ This project focuses on predicting **monthly sales** for e-commerce products usi
 
 ---
 
-## 📂 Project Structure
+## 📊 Features
+📌 Data Cleaning & Preprocessing
 
-```bash
-ecommerce_sales_prediction/
-│
-├── README.md                ← Project overview and instructions
-├── requirements.txt         ← Dependencies and libraries
-├── ecommerce_sales_prediction.ipynb  ← Main notebook (add yours here)
+📈 Exploratory Data Analysis (EDA)
+
+🧠 Machine Learning Models (Linear Regression, Random Forest, Gradient Boosting)
+
+🧪 Evaluation Metrics (MAE, RMSE, R²)
+
+🖼️ Visual Comparison of Model Performance
+
+🔍 Actual vs Predicted Analysis
+
+## 🔧 How to Run
+Clone the repository or download the zip.
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the Jupyter Notebook:
+
+jupyter notebook ecommerce_sales_prediction.ipynb
+
+##📦 Dependencies
+pandas
+
+numpy
+
+matplotlib
+
+seaborn
+
+scikit-learn
+
+joblib
+
+
+
