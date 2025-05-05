@@ -38,7 +38,7 @@ Run the Jupyter Notebook:
 
 jupyter notebook ecommerce_sales_prediction.ipynb
 
-##📦 Dependencies
+## 📦 Dependencies
 pandas
 
 numpy
